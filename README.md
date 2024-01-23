@@ -13,7 +13,8 @@ Uma jornada de aprendizado abrangente para aprimorar suas habilidades no desenvo
 ## Acesse as Aulas:
 
 - [**Aula 1**](https://github.com/LeoRodrigues290/alura-imersao-front-end/tree/main/aula-1)
-- **Aula 2** Em breve...
+- [**Aula 2**](https://github.com/LeoRodrigues290/alura-imersao-front-end/tree/main/aula-2)
+- **Aula 3** Em breve...
 
 
 Acesse o projeto base [aqui.](https://github.com/alura-cursos/spotify-imersao/tree/main)
