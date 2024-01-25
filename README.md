@@ -15,11 +15,23 @@ Uma jornada de aprendizado abrangente para aprimorar suas habilidades no desenvo
 - [**Aula 1**](https://github.com/LeoRodrigues290/alura-imersao-front-end/tree/main/aula-1)
 - [**Aula 2**](https://github.com/LeoRodrigues290/alura-imersao-front-end/tree/main/aula-2)
 - [**Aula 3**](https://github.com/LeoRodrigues290/alura-imersao-front-end/tree/main/aula-3)
-- **Aula 4** Em breve...
+- [**Aula 4**](https://github.com/LeoRodrigues290/alura-imersao-front-end/tree/main/aula-4)
+- **Aula 5** Em breve...
 
+### Configuração do JSON para Pesquisa
+
+Instalação do JSON Server
+
+```bash
+  npm i json-server -g
+```
+Inicializando o Servidor JSON
+
+```bash
+  json-server --watch src/artists.json --port 3000
+```
 
 Acesse o projeto base [aqui.](https://github.com/alura-cursos/spotify-imersao/tree/main)
-
 
 
 `#ImersãoFrontEnd`
